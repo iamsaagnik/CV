@@ -1,0 +1,182 @@
+/* NOTE:
+font-family: 'Josefin Slab', serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Sacramento', cursive;
+font-family: 'Poiret One', cursive; */
+
+body{
+  background-color: black;
+  font-family: 'Poiret One', cursive;
+  color: #d9ecf2;
+  text-align: center;
+  font-size: 1rem;
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+  font-weight: lighter;
+  color: #f9813a;
+  text-align: center;
+  font-size: 5rem;
+}
+
+h2{
+  font-family: 'Raleway', sans-serif;
+  font-size: 3rem;
+  color:#f9813a;
+  font-weight: bold;
+}
+
+h3{
+  font-family: 'Raleway', sans-serif;
+  font-size: 2rem;
+  color:#f9813a;
+  font-weight: lighter;
+  padding: 2rem;
+}
+
+p{
+  font-weight: lighter;
+  text-align: center;
+  line-height: 150%;
+  font-size: 1.5rem;
+
+}
+
+.pro{
+  text-decoration: underline;
+  text-decoration-color: #ff414d
+}
+
+hr{
+  margin-left: 25rem;
+  margin-right: 25rem;
+  border-style: solid none none none;
+  border-color :#ff414d;
+  background-color: black;
+  border-width: .1rem;
+}
+
+.pro{
+  height:15rem;
+
+}
+
+.one{
+  padding: 3rem;
+
+}
+
+.two{
+  padding: 3rem;
+}
+
+.con{
+  padding-bottom: 3em;
+}
+
+.skills{
+  width:50%;
+  text-align:  left;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1rem;
+}
+
+.skill1{
+  text-align: left;
+  padding-bottom: 5%;
+  padding-top: 5%;
+  line-height: 2rem;
+}
+
+.skill2{
+  text-align: right;
+  padding-bottom: 5%;
+  padding-top: 5%;
+  line-height: 2rem;
+}
+
+.skill3{
+  text-align: left;;
+  padding-bottom: 5%;
+  padding-top: 5%;
+  line-height: 2rem;
+}
+
+
+.code{
+
+width: 25%;
+padding-right: 2rem;
+float: left;
+
+}
+
+.domain{
+  width:25%;
+  padding-left: 2rem;
+  float: right;
+}
+
+.guitar{
+  width: 25%;
+  padding-right: 2rem;
+  float: left;
+}
+.column {
+  float: left;
+  width: 25%;
+
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.icons{
+  width: 15%;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+a{
+  color: #f9813a;
+}
+a:hover{
+  color: #ff414d;
+}
+
+.frm{
+  padding-top: 3rem;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.name{
+  border: 1px solid #f9813a;
+  color: #f9813a;
+  background-color:black ;
+  font-family: 'Poiret One', cursive;
+  font-size:100%
+}
+
+.snd{
+  color:#f9813a;
+  border: 1px solid #f9813a;
+  background: none;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2rem;
+}
+textarea:hover{
+  color: #ff414d
+}
+label:hover{
+  color: #ff414d
+}
+input:hover{
+  color:#ff414d;
+  border:1px solid #ff414d;
+}
