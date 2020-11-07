@@ -84,21 +84,21 @@ hr{
 }
 
 .skill1{
-  text-align: left;
-  padding-bottom: 5%;
-  padding-top: 5%;
-  line-height: 2rem;
-}
-
-.skill2{
   text-align: right;
   padding-bottom: 5%;
   padding-top: 5%;
   line-height: 2rem;
 }
 
+.skill2{
+  text-align: leftt;
+  padding-bottom: 5%;
+  padding-top: 5%;
+  line-height: 2rem;
+}
+
 .skill3{
-  text-align: left;;
+  text-align: right;;
   padding-bottom: 5%;
   padding-top: 5%;
   line-height: 2rem;
